@@ -2,3 +2,4 @@
 *.pyc
 *.pyc
 d2lzh_pytorch/__pycache__/__init__.cpython-38.pyc
+*.pyc
